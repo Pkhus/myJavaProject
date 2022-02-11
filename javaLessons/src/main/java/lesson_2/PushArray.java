@@ -4,7 +4,7 @@ public class PushArray {
 
     public static void main(String args[]) {
         int[] arr = {1, 2, 3, 4, 5, 6};
-        int n = 0;
+        int n = 2;
         int[] arr1 = pushArray(arr, n);
         for (int a : arr1) {
             System.out.print(a);
