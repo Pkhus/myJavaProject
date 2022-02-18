@@ -24,6 +24,7 @@ public class Cat extends Animal {
     @Override
     public void run(int a) {
         if (a >= 0 && a <= 200) System.out.println(name + "пробежал: " + a + "м.");
+        else
         System.out.println("Кот не может так много бегать");
     }
 

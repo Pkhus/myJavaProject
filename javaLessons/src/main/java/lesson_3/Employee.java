@@ -25,7 +25,7 @@ public class Employee {
 
     public void info() {
 
-        System.out.println("Имя Фамилия: " + fio + "Должность: " + posision + "Email: " + email + "телефон: " + tel + "Зарплата: " + salary + "Возраст: " + age);
+        System.out.println("Имя Фамилия: " + fio + "  Должность: " + posision + "  Email: " + email + "  телефон: " + tel + "  Зарплата: " + salary + "  Возраст: " + age);
     }
 }
 
