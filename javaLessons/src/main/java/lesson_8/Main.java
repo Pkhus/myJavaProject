@@ -22,9 +22,9 @@ public class Main {
 
         PhoneBook pb = new PhoneBook();
 
-        pb.add("Ivanov", "123");
-        pb.add("Petrov", "456");
-        pb.add("Petrov", "789");
+        pb.add("Ivanov", "123333");
+        pb.add("Petrov", "456222");
+        pb.add("Petrov", "789111");
 
         System.out.println(pb.get("Petrov"));
     }
